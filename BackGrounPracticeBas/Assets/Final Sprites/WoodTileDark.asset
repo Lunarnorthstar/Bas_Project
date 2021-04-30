@@ -13,7 +13,7 @@ MonoBehaviour:
   m_Name: WoodTileDark
   m_EditorClassIdentifier: 
   m_Sprite: {fileID: 21300000, guid: 387e99482d03fd34db9feec6642cb58a, type: 3}
-  m_Color: {r: 0.6603774, g: 0.56381273, b: 0.56381273, a: 1}
+  m_Color: {r: 0.6981132, g: 0.6157885, b: 0.6157885, a: 1}
   m_Transform:
     e00: 1
     e01: 0
