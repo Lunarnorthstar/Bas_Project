@@ -14,6 +14,12 @@ public class InteractableScript : MonoBehaviour
             anim.SetTrigger("player");
         }
     }
+    void OnTriggerExit2D(Collider2D col)
+    {
+        if (col.gameObject.tag == "Player")
+        {
+            anim.SetTrigger("notplayer");
+        }
+    }
 
-    
 }
