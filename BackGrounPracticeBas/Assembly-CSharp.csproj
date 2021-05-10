@@ -60,7 +60,7 @@
     <Compile Include="Assets\Scripts\AnimationScriptUsingAddForce.cs" />
     <Compile Include="Assets\Scripts\ParallaxScript.cs" />
     <Compile Include="Assets\Scripts\InteractableScript.cs" />
-    <Compile Include="Assets\CollectablePickup.cs" />
+    <Compile Include="Assets\Scripts\CollectablePickup.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
