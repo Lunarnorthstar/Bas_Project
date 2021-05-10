@@ -49,9 +49,9 @@ AnimationClip:
       value: {fileID: 5833451072009738143, guid: ca3970519c5177a44abe26f912f976e8, type: 3}
     - time: 1.8
       value: {fileID: 1549580251454826407, guid: ca3970519c5177a44abe26f912f976e8, type: 3}
-    - time: 1.9666667
+    - time: 1.9166666
       value: {fileID: 3743148661099625043, guid: ca3970519c5177a44abe26f912f976e8, type: 3}
-    - time: 2.1
+    - time: 2.0166667
       value: {fileID: -5844007607378145224, guid: ca3970519c5177a44abe26f912f976e8, type: 3}
     attribute: m_Sprite
     path: BookSprite
@@ -94,7 +94,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 2.1166666
+    m_StopTime: 2.0333333
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
